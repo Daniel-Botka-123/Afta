@@ -74,5 +74,3 @@ function showCard(cardClickedIndex) {
     x.play();
   }
 }
-
-launchGame()
