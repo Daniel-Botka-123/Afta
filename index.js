@@ -29,6 +29,8 @@ function launchGame() {
   produceSound(winner);
 }
 
+launchGame()
+
 function generateIndexes() {
   let index = Math.floor(Math.random() * 15) + 1;
   let result = false;
